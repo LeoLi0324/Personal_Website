@@ -1,23 +1,51 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Experiences",
     "section": "",
-    "text": "About this site"
+    "text": "I enjoy helping other students learn mathematical concepts and perceive the beauty of this subject. During my work at Ardent Academy for the Gifted Youth in Irvine, California, I have served as an Instructor, Tutor, and Teaching Assistant since October 2022. My role involved leading three intensive AMC Bootcamps, where I guided students in enhancing their problem-solving skills at the competition math level. Additionally, I conducted weekly private sessions with students, providing personalized instruction across various subjects including AP Calculus BC, Pre-Calculus, AP Physics, AMC 12, and AIME. As a teaching assistant, I supported students in navigating challenging concepts and fostering a deeper understanding of the material."
+  },
+  {
+    "objectID": "work.html#instructor-at-ardent-academy",
+    "href": "work.html#instructor-at-ardent-academy",
+    "title": "Experiences",
+    "section": "",
+    "text": "I enjoy helping other students learn mathematical concepts and perceive the beauty of this subject. During my work at Ardent Academy for the Gifted Youth in Irvine, California, I have served as an Instructor, Tutor, and Teaching Assistant since October 2022. My role involved leading three intensive AMC Bootcamps, where I guided students in enhancing their problem-solving skills at the competition math level. Additionally, I conducted weekly private sessions with students, providing personalized instruction across various subjects including AP Calculus BC, Pre-Calculus, AP Physics, AMC 12, and AIME. As a teaching assistant, I supported students in navigating challenging concepts and fostering a deeper understanding of the material."
+  },
+  {
+    "objectID": "work.html#course-reader-at-ucla-math-department",
+    "href": "work.html#course-reader-at-ucla-math-department",
+    "title": "Experiences",
+    "section": "2. Course Reader at UCLA Math Department",
+    "text": "2. Course Reader at UCLA Math Department\nFrom October 2023 to December 2023, I helped the grading process of weekly assessments for course Math 31B."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jiping Li",
     "section": "",
-    "text": "About Me\nHey there! My name is Jiping (Leo) Li, a junior year student at UCLA, where I’m diving deep into the realms of mathematics and statistics with a double major. Mathematics has always fascinated me with its elegance and precision, while statistics adds that real-world applicability that keeps me grounded.\nMy passion lies in the intersection of mathematics, algorithms, and machine learning. Exploring the intricacies of algorithms and unraveling patterns in data through machine learning algorithms fuels my curiosity and keeps me engaged in this dynamic field.\nWhen I’m not buried in code or textbooks, you’ll likely find me lost in the captivating world of cinema. Movies are my escape. I also have a fondness for the written word. Whether it’s jotting down my thoughts, crafting stories, or exploring new ideas, writing serves as both a creative outlet and a means of expression for me.\nIn essence, I’m a curious explorer navigating the realms of academia, technology, and creativity. Join me on this journey as we unravel the mysteries of mathematics, delve into the possibilities of machine learning, and embrace the beauty of storytelling and travel.\nLet’s connect and embark on this adventure together!"
+    "text": "Hey there! My name is Jiping (Leo) Li, and I am a third-year student at University of California, Los Angeles (UCLA). I double major in Applied Mathematics and Statistics & Data Science, with a minor in Data Science Engineering. I am open to research or internship opportunities that involve machine learning and data science. Attached here is my CV.\nMathematics has always fascinated me with its elegance and precision, while statistics adds that real-world applicability that keeps me grounded. My academic passion lies in the intersection of mathematics, algorithms, and machine learning. Exploring the intricacies of algorithms and unraveling patterns in data through ML techniques fuels my curiosity and keeps me engaged in this dynamic field.\nWhen I’m not buried in code or textbooks, you’ll likely find me lost in the world of cinema, where movies become my escape. I also have a fondness for the written word. Whether it’s jotting down my thoughts, crafting stories, or exploring new ideas, writing serves as both a creative outlet and a means of expression for me.\nLet’s connect!"
   },
   {
-    "objectID": "index.html#class-overview",
-    "href": "index.html#class-overview",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
     "title": "Jiping Li",
     "section": "",
-    "text": "About Me\nHey there! My name is Jiping (Leo) Li, a junior year student at UCLA, where I’m diving deep into the realms of mathematics and statistics with a double major. Mathematics has always fascinated me with its elegance and precision, while statistics adds that real-world applicability that keeps me grounded.\nMy passion lies in the intersection of mathematics, algorithms, and machine learning. Exploring the intricacies of algorithms and unraveling patterns in data through machine learning algorithms fuels my curiosity and keeps me engaged in this dynamic field.\nWhen I’m not buried in code or textbooks, you’ll likely find me lost in the captivating world of cinema. Movies are my escape. I also have a fondness for the written word. Whether it’s jotting down my thoughts, crafting stories, or exploring new ideas, writing serves as both a creative outlet and a means of expression for me.\nIn essence, I’m a curious explorer navigating the realms of academia, technology, and creativity. Join me on this journey as we unravel the mysteries of mathematics, delve into the possibilities of machine learning, and embrace the beauty of storytelling and travel.\nLet’s connect and embark on this adventure together!"
+    "text": "Hey there! My name is Jiping (Leo) Li, and I am a third-year student at University of California, Los Angeles (UCLA). I double major in Applied Mathematics and Statistics & Data Science, with a minor in Data Science Engineering. I am open to research or internship opportunities that involve machine learning and data science. Attached here is my CV.\nMathematics has always fascinated me with its elegance and precision, while statistics adds that real-world applicability that keeps me grounded. My academic passion lies in the intersection of mathematics, algorithms, and machine learning. Exploring the intricacies of algorithms and unraveling patterns in data through ML techniques fuels my curiosity and keeps me engaged in this dynamic field.\nWhen I’m not buried in code or textbooks, you’ll likely find me lost in the world of cinema, where movies become my escape. I also have a fondness for the written word. Whether it’s jotting down my thoughts, crafting stories, or exploring new ideas, writing serves as both a creative outlet and a means of expression for me.\nLet’s connect!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "More to come…",
+    "section": "",
+    "text": "More to come…"
+  },
+  {
+    "objectID": "project.html#generalization-error-research-project-in-progress",
+    "href": "project.html#generalization-error-research-project-in-progress",
+    "title": "Academic Projects",
+    "section": "Generalization Error Research Project (In-Progress)",
+    "text": "Generalization Error Research Project (In-Progress)\nI am fortunate to be advised by Professor Rishi Sonthalia. I want to express my gratitude for his willingness to involve me in this project and his invaluable mentorship.\nBackground: In the realm of machine learning, noise poses a ubiquitous challenge across images, audio, video, and data in general, stemming from various sources including sensor limitations, transmission errors, and environmental factors. Denoising techniques have thus become important to mitigate such distortions and enhance data quality while preserving essential details. Traditionally relying on signal processing methods, the advent of convolutional neural networks (CNNs) has revolutionized denoising, empowering models to discern intricate patterns within noisy data. Recent advancements in deep learning, coupled with the availability of large-scale datasets, have propelled denoising algorithms to unprecedented levels of efficacy. Beyond improving visual and auditory media, denoising plays a pivotal role in domains such as medical imaging, surveillance, and digital forensics, bolstering data accuracy and reliability. As research continues to innovate, the pursuit of novel denoising methodologies promises to expand the horizons of data enhancement, fostering applications across diverse industries and domains.\n\nThis project focuses on a particular aspect of denoising, which can be theoretically analyzed: a data generative model characterized by the presence of both feature noise and label noise within the training data. Our primary objective is to reconstruct the underlying data generation process by identifying the optimal mapping from noisy observations to noisy output and examining the generation error on test data to capture meaningful behaviors.\nTechniques used: PyTorch simulations, random matrix theory, optimization algorithms, linear algebra, probability theory\nWe expect this project to be done by June 2024."
   }
 ]

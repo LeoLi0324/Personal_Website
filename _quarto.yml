@@ -2,12 +2,17 @@ project:
   type: website
 
 website:
-  title: "Personal_Website"
+  title: "Jiping Li"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: project.qmd
+        text: Projects
+      - href: work.qmd
+        text: Work
+      - href: about.qmd
+        text: Other
 
 format:
   html:

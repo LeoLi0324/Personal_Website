@@ -4,31 +4,29 @@ toc: false
 about: 
     template: trestles
     links: 
-      - icon: linkedlin
+      - icon: linkedin
         text: LinkedIn
         url: https://www.linkedin.com/in/jiping-li-32329621b/
       - icon: github
         text: GitHub
         url: https://github.com/LeoLi0324
+      - icon: inbox-fill
+        text: Email
+        url: "mailto:jipingli0324@g.ucla.edu"
 image: profile.jpeg
 ---
 
 ::: column-page
 
-## Class Overview
+## About Me
 
-**About Me**
+Hey there! My name is Jiping (Leo) Li, and I am a third-year student at University of California, Los Angeles ([UCLA](https://www.ucla.edu/)). I double major in Applied Mathematics and Statistics & Data Science, with a minor in Data Science Engineering. I am open to research or internship opportunities that involve machine learning and data science. Attached here is my [CV](/docs/CV.pdf "CV"). 
 
-Hey there! My name is Jiping (Leo) Li, a junior year student at UCLA, where I'm diving deep into the realms of mathematics and statistics with a double major. Mathematics has always fascinated me with its elegance and precision, while statistics adds that real-world applicability that keeps me grounded.
+Mathematics has always fascinated me with its elegance and precision, while statistics adds that real-world applicability that keeps me grounded. My academic passion lies in the intersection of mathematics, algorithms, and machine learning. Exploring the intricacies of algorithms and unraveling patterns in data through ML techniques fuels my curiosity and keeps me engaged in this dynamic field.
 
-My passion lies in the intersection of mathematics, algorithms, and machine learning. Exploring the intricacies of algorithms and unraveling patterns in data through machine learning algorithms fuels my curiosity and keeps me engaged in this dynamic field.
+When I'm not buried in code or textbooks, you'll likely find me lost in the world of cinema, where movies become my escape. I also have a fondness for the written word. Whether it's jotting down my thoughts, crafting stories, or exploring new ideas, writing serves as both a creative outlet and a means of expression for me.
 
-When I'm not buried in code or textbooks, you'll likely find me lost in the captivating world of cinema. Movies are my escape. I also have a fondness for the written word. Whether it's jotting down my thoughts, crafting stories, or exploring new ideas, writing serves as both a creative outlet and a means of expression for me.
-
-In essence, I'm a curious explorer navigating the realms of academia, technology, and creativity. Join me on this journey as we unravel the mysteries of mathematics, delve into the possibilities of machine learning, and embrace the beauty of storytelling and travel.
-
-Let's connect and embark on this adventure together!
-
+Let's connect!
 
 :::
 
