@@ -1,6 +1,34 @@
 ---
-title: "Personal_Website"
+title: "Jiping Li"
+toc: false
+about: 
+    template: trestles
+    links: 
+      - icon: linkedlin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/jiping-li-32329621b/
+      - icon: github
+        text: GitHub
+        url: https://github.com/LeoLi0324
+image: profile.jpeg
 ---
 
-This is a Quarto website.
+::: column-page
+
+## Class Overview
+
+**About Me**
+
+Hey there! My name is Jiping (Leo) Li, a junior year student at UCLA, where I'm diving deep into the realms of mathematics and statistics with a double major. Mathematics has always fascinated me with its elegance and precision, while statistics adds that real-world applicability that keeps me grounded.
+
+My passion lies in the intersection of mathematics, algorithms, and machine learning. Exploring the intricacies of algorithms and unraveling patterns in data through machine learning algorithms fuels my curiosity and keeps me engaged in this dynamic field.
+
+When I'm not buried in code or textbooks, you'll likely find me lost in the captivating world of cinema. Movies are my escape. I also have a fondness for the written word. Whether it's jotting down my thoughts, crafting stories, or exploring new ideas, writing serves as both a creative outlet and a means of expression for me.
+
+In essence, I'm a curious explorer navigating the realms of academia, technology, and creativity. Join me on this journey as we unravel the mysteries of mathematics, delve into the possibilities of machine learning, and embrace the beauty of storytelling and travel.
+
+Let's connect and embark on this adventure together!
+
+
+:::
 

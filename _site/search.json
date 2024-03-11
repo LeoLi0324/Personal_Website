@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Personal_Website",
-    "section": "",
-    "text": "This is a Quarto website."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jiping Li",
+    "section": "",
+    "text": "About Me\nHey there! My name is Jiping (Leo) Li, a junior year student at UCLA, where I’m diving deep into the realms of mathematics and statistics with a double major. Mathematics has always fascinated me with its elegance and precision, while statistics adds that real-world applicability that keeps me grounded.\nMy passion lies in the intersection of mathematics, algorithms, and machine learning. Exploring the intricacies of algorithms and unraveling patterns in data through machine learning algorithms fuels my curiosity and keeps me engaged in this dynamic field.\nWhen I’m not buried in code or textbooks, you’ll likely find me lost in the captivating world of cinema. Movies are my escape. I also have a fondness for the written word. Whether it’s jotting down my thoughts, crafting stories, or exploring new ideas, writing serves as both a creative outlet and a means of expression for me.\nIn essence, I’m a curious explorer navigating the realms of academia, technology, and creativity. Join me on this journey as we unravel the mysteries of mathematics, delve into the possibilities of machine learning, and embrace the beauty of storytelling and travel.\nLet’s connect and embark on this adventure together!"
+  },
+  {
+    "objectID": "index.html#class-overview",
+    "href": "index.html#class-overview",
+    "title": "Jiping Li",
+    "section": "",
+    "text": "About Me\nHey there! My name is Jiping (Leo) Li, a junior year student at UCLA, where I’m diving deep into the realms of mathematics and statistics with a double major. Mathematics has always fascinated me with its elegance and precision, while statistics adds that real-world applicability that keeps me grounded.\nMy passion lies in the intersection of mathematics, algorithms, and machine learning. Exploring the intricacies of algorithms and unraveling patterns in data through machine learning algorithms fuels my curiosity and keeps me engaged in this dynamic field.\nWhen I’m not buried in code or textbooks, you’ll likely find me lost in the captivating world of cinema. Movies are my escape. I also have a fondness for the written word. Whether it’s jotting down my thoughts, crafting stories, or exploring new ideas, writing serves as both a creative outlet and a means of expression for me.\nIn essence, I’m a curious explorer navigating the realms of academia, technology, and creativity. Join me on this journey as we unravel the mysteries of mathematics, delve into the possibilities of machine learning, and embrace the beauty of storytelling and travel.\nLet’s connect and embark on this adventure together!"
   }
 ]
