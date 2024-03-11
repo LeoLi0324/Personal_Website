@@ -1,8 +1,7 @@
 ---
 toc: false
-image: profile.jpeg
 ---
 
 # More to come...  
      
-![](under_construction.png){}
+![](\images\under_construction.png){}
