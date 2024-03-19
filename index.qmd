@@ -13,7 +13,7 @@ about:
       - icon: inbox-fill
         text: Email
         url: "mailto:jipingli0324@g.ucla.edu"
-image: /images/profile.jpeg
+image: /images/profile.jpg
 ---
 
 ::: column-page

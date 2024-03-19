@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: 96c63a85-c4f4-48c1-8be5-8871d4058ffc
-      url: 'jipingliwork.netlify.app'
+      url: 'https://jipingliwork.netlify.app'
